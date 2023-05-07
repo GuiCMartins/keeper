@@ -1,0 +1,22 @@
+.note-container {
+  background-color: #fff;
+  padding: 10px;
+  margin: 16px;
+  width: 240px;
+  border-radius: 7px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.note-container h1 {
+  margin-bottom: 6px;
+}
+
+.note-container p {
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.text-font-size {
+  font-size: 1.1rem;
+}
